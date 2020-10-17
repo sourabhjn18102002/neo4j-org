@@ -1,14 +1,3 @@
-neo4j.org
-=========
-
-Served with express.js, mostly static pages with javascript. 
-
-Running local
--------------
-
-With [nodes.js](http://nodejs.org) installed, first install dependencies like so:
-
-    npm install
 
 Then run the server:
 
